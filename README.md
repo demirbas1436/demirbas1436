@@ -1,5 +1,5 @@
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E22AQHEECj7rZ2Rtg/feedshare-shrink_1280/feedshare-shrink_1280/0/1724752228828?e=1771459200&v=beta&t=V6b3-U6W6X270MOEgX8BddajKNP6BhKOp-UqoTgJ2Pc)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFzHVFGwtBGww/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708850708448?e=1771459200&v=beta&t=SM-emMYEhkp6KmiFZaQuGpkpDEUsJjDNOqa1zEUnxJ4)
 
 <h1 align="center">Hi 👋, I'm Murat Demirbaş</h1>
 <h3 align="center">🚀 Computer Engineer | Data Engineer | Python Developer | SQL Lover</h3>
